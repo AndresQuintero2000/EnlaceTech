@@ -19,9 +19,9 @@ header h1 {
 }
 
 main {
-    padding: 10px;
+    padding: 40px;
     max-width: 1200px; 
-    margin: 0 auto;
+    margin: 25px;
 }
 
 .upper-courses, .lower-courses {
@@ -34,11 +34,11 @@ main {
 
 .upper-courses .course, .lower-courses .course {
     
-    max-width: calc(33% - 20px); /* Tres secciones en una fila */
+    max-width: calc(33% - 20px);
 }
 
 .lower-courses .course {
-    max-width: calc(50% - 20px); /* Dos secciones en una fila */
+    max-width: calc(50% - 20px);
 }
 
 .navbar {
